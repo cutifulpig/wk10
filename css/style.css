@@ -1,0 +1,100 @@
+*{
+  border-radius: 3px;
+}
+html{
+  font-family: Arial;
+  max-width: 1280px;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo{
+  width: 266px;
+  height: 41px;
+  float: left;
+  margin: 125px 0px 105px 49px;
+}
+.navbar{
+  border-style: solid;
+  border-radius: 10px;
+  width: 831px;
+  height: 66px;
+  font-weight: bold;
+  font-size: 24px;
+  margin: 117px 71px 0px 0px;
+  float: right;
+  background-color: #93999d;
+}
+li{
+  list-style: none;
+  float: left;
+  margin-right: 50px;
+  margin-left: 20px;
+  margin-top: -5px;
+}
+.main-img{
+  width: 1280px;
+  height: 584px;
+  margin-bottom: 95px;
+}
+.content-title{
+  font-size: 48px;
+  margin-left: 40px;
+  margin-bottom: 44px;
+}
+.side-col-1,.side-col-2,.side-col-3,.side-col-4{
+  width: 511px;
+  height: 562px;
+  border-style: solid;
+  float: left;
+  margin-bottom: 30px;
+}
+.side-col-1,.side-col-3{
+  margin-left: 71px;
+}
+.side-col-2,.side-col-4{
+  margin-left: 102px;
+}
+.side-img-1,.side-img-2,.side-img-3,.side-img-4{
+  margin-top: 28px;
+  margin-right: 43px;
+  width: 424px;
+  height: 344px;
+  float: right;
+}
+.side-text-1,.side-text-2,.side-text-3,.side-text-4{
+  margin-left: 33px;
+  margin-top: 400px;
+  font-weight: bold;
+  font-size: 24px;
+}
+.footer-col{
+  clear: both;
+  width: 1280px;
+  height: 254px;
+  background-color: #93999d;
+}
+.footer-text{
+  float: left;
+  font-size: 48px;
+  margin-left: 40px;
+  margin-top:20px;
+}
+.fb{
+  clear: both;
+  margin-left: 74px;
+  margin-right: 169px;
+}
+.fb,.youtube{
+  float: left;
+  width:441px;
+  height: 114px;
+  margin-top: 25px;
+}
+
+.copy{
+  float: left;
+  margin: 59px 0px 54px 521px;
+  font-weight: bold;
+  font-size: 24px;
+}
