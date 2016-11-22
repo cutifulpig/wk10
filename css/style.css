@@ -89,12 +89,12 @@ li{
   float: left;
   width:441px;
   height: 114px;
-  margin-top: 25px;
+  margin-top: 10px;
 }
 
 .copy{
   float: left;
-  margin: 59px 0px 54px 521px;
+  margin: 15px 0px 0px 521px;
   font-weight: bold;
   font-size: 24px;
 }
